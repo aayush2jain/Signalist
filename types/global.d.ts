@@ -216,5 +216,12 @@ declare global {
         changePercent?: number;
     };
 }
+declare global {
+    interface UserForNewsEmail {
+        id: string;
+        email: string;
+        name: string;
+    }
+}
 
 export {};
