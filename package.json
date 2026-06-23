@@ -16,7 +16,7 @@
     "dotenv": "^17.4.2",
     "dropdown-menu": "^0.1.1",
     "fs": "^0.0.1-security",
-    "inngest": "^3.40.1",
+    "inngest": "^3.54.0",
     "lucide-react": "^1.18.0",
     "mongodb": "^7.3.0",
     "mongoose": "^9.7.1",
